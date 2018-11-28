@@ -1,0 +1,6 @@
+{
+  "Name": "YOUR_GROUP_NAME",
+  "Owner": {
+    "EmailAddress": "OWNER@EMAIL.COM"
+  }
+}

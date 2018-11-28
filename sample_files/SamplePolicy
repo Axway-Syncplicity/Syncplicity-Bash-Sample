@@ -1,0 +1,6 @@
+[ {
+    "EntitySetType": {1},
+    "IsDefault": false,
+    "Name": "TestPolicy",
+    "Policy": {}
+} ]
